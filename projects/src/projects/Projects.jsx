@@ -11,7 +11,7 @@ export default class Projects extends Component {
     render(){
         return (
             <div>
-                simonmtr github
+                test
             </div>
         )
     }
