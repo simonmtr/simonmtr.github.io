@@ -345,6 +345,7 @@ function get_help_text() {
 
   CLI
   This cli gives the option to give different information about Simon Treutlein in different output formats.
+  Disclaimer: This might not always be up to date. Please refer to my linkedin to connect with me: linkedin.com/in/simon-treutlein
 
   Options:
     -h, --help              Show help for commands
